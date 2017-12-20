@@ -1,0 +1,11 @@
+group	imc
+steatosis	35.4
+steatosis	32.1
+steatosis	38.4
+steatosis	34.8
+steatosis	38.4
+anorexia	15.4
+anorexia	14.8
+anorexia	16.1
+anorexia	17.2
+anorexia	16.5
